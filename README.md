@@ -3,7 +3,10 @@
 
 _This is going to be a pretty heavy week when it comes to theory. Most of the exercises will not involve code, but steps necessary to understand and USE the terms below, and see how they are all required to get a secure connection in a browser_
 - SSH and SSH Tunnels
-- tbd
+- Introduction to Symmetric and Asymmetric Encryption
+- Different ways to set up a Remote Database Server
+- Monitoring a SSH handshake with wireshark
+
 
 ## What to Install
 
