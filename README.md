@@ -1,16 +1,9 @@
-# Week-09-Crypto,SSH, SSL, Certificates and more
-Cryptograhy, Certificates, Digital Signatures
+# Week-09-Crypto,SSH Part-1
+## Thuersday March 26 th (08.30-12.00 for both classes).
 
 _This is going to be a pretty heavy week when it comes to theory. Most of the exercises will not involve code, but steps necessary to understand and USE the terms below, and see how they are all required to get a secure connection in a browser_
 - SSH and SSH Tunnels
-- Symmetric Encryption
-- Asymmetric Encryption
-- Hashing and Hash Digests
-- Digital Signatures
-- Certificates
-- Certificate Authorities and Certificate Trust Hierarchies
-- :red_circle: MAC (Message Authentication Code)
-- :red_circle: Cipher Suites
+- tbd
 
 ## What to Install
 
@@ -18,8 +11,6 @@ _This is going to be a pretty heavy week when it comes to theory. Most of the ex
 
 ##### WireShark SSL-handshake sample we did in the class  [wireshark-sample (TBD)](#)
       
-## Thuersday March 26 th (08.30-12.00 for both classes).
-
 ### What to Read or Watch :information_source:
 
 - [:book: Understanding the SSH Encryption and Connection Process (30 min.)](https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process)
