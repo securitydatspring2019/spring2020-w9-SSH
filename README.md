@@ -18,7 +18,7 @@ _This is going to be a pretty heavy week when it comes to theory. Most of the ex
 ### What to Read or Watch :information_source:
 #### Before you read/watch any of the links below, make sure to watch my video which introduces this week + Week-13
 
-[An introduction to week9 + week13](https://youtu.be/Ez21VJWyAWA)
+[:tv: An introduction to week9 + week13](https://youtu.be/Ez21VJWyAWA)
 
 - [:book: Understanding the SSH Encryption and Connection Process (30 min.)](https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process)
 - [:tv: What is SSH? (4 min.)](https://www.youtube.com/watch?v=tCHldm7QTJo)
