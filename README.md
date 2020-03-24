@@ -31,7 +31,7 @@ _This is going to be a pretty heavy week when it comes to theory. Most of the ex
 [Slides-day1](https://docs.google.com/presentation/d/1POsfOCOQN1bA36P-mlauX4UirJaQHJqTdCH7Cja5WLM/edit?usp=sharing)
 ### Exercises :memo:
 
-- [SSH-SSL with MySQL](https://docs.google.com/document/d/1G3GaXH3ZfoX29bQRmUJLxPaTbc8Zta7XgbjFoLVik1c/edit?usp=sharing)
+- [SSH-SSL with MySQL](https://docs.google.com/document/d/1L3DTzTv3yR9yM3h843e1LxAmQnHX0p7-A58OJLBBgsA/edit?usp=sharing)
 
 
 
