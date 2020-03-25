@@ -10,8 +10,7 @@ _This is going to be a pretty heavy week when it comes to theory. Most of the ex
 
 ## What to Prepare
 Read the first pages in todays exercises, and set up the two droplets as explained in the section "Setting up the two required Droplets"
-
-Do this either in a team, or all of you. You can delete the droplets when you are done with the hand-in for this week.
+Do this either in a team, or do it for your self. You can **delete the droplets** when you are done with the hand-in for this week.
 
 This should take less than 15-20 min. (for both droplets) if you follow the instructions carefully
 
