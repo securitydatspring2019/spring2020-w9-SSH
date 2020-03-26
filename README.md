@@ -36,7 +36,7 @@ This should take less than 15-20 min. (for both droplets) if you follow the inst
 - [SSH-SSL with MySQL](https://docs.google.com/document/d/1L3DTzTv3yR9yM3h843e1LxAmQnHX0p7-A58OJLBBgsA/edit?usp=sharing)
 
 
-### Recorings of todays lectures
+### Recodings of todays lectures
 [:tv: Crypto-1 (26-03)](https://www.youtube.com/playlist?list=PLDbigcKhXkiXOqYiywXhTcfggXuVPntV9)
 
 
