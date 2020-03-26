@@ -37,6 +37,6 @@ This should take less than 15-20 min. (for both droplets) if you follow the inst
 
 
 ### Recorings of todays lectures
-[Crypto-1 (26-03)](https://www.youtube.com/playlist?list=PLDbigcKhXkiXOqYiywXhTcfggXuVPntV9)
+[:tv: Crypto-1 (26-03)](https://www.youtube.com/playlist?list=PLDbigcKhXkiXOqYiywXhTcfggXuVPntV9)
 
 
